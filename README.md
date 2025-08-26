@@ -10,7 +10,7 @@ Desenvolvedor Flutter com foco em criar aplicativos móveis eficientes e de alta
 - **API REST**: Consumo e integração com APIs externas.
 - **Boas práticas**: Código limpo, modularidade e desempenho.
 
-## 📂 Projetos Destacados
+## 📂 Melhores Projetos 
 
 - **[Lista de Tarefas](#)**: Aplicativo para gerenciamento de tarefas, com interface simples e integração com Firebase.  
 - **[Clima App](#)**: Aplicativo de previsão do tempo com consumo de API externa e interface dinâmica que muda conforme o clima.
