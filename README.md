@@ -9,6 +9,7 @@ Desenvolvedor Flutter com foco em criar aplicativos móveis eficientes e de alta
 - **Git & GitHub**: Controle de versão e colaboração em projetos.
 - **API REST**: Consumo e integração com APIs externas.
 - **GetX**: Gerenciamento de estudo , injeção de dependências e navegação.
+- **Clean Architecture**: boas práticas de organização de código.
 - **Boas práticas**: Código limpo, modularidade e desempenho.
 
 ## 📂 Melhores Projetos 
