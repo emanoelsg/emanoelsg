@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Olá, sou Emanuel Gomes
 
-<!--
-**emanoelsg/emanoelsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Flutter com foco em criar aplicativos móveis eficientes e de alta qualidade. Busco colaborar em projetos e equipes que valorizem boas práticas de desenvolvimento e entregas consistentes.
 
-Here are some ideas to get you started:
+## 🔧 Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Flutter & Dart**: Desenvolvimento de aplicativos móveis para Android e iOS.
+- **Firebase**: Integração com autenticação e banco de dados Firestore.
+- **Git & GitHub**: Controle de versão e colaboração em projetos.
+- **API REST**: Consumo e integração com APIs externas.
+- **Boas práticas**: Código limpo, modularidade e desempenho.
+
+## 📂 Projetos Destacados
+
+- **[Lista de Tarefas](#)**: Aplicativo para gerenciamento de tarefas, com interface simples e integração com Firebase.  
+- **[Clima App](#)**: Aplicativo de previsão do tempo com consumo de API externa e interface dinâmica que muda conforme o clima.
+
+## 📬 Contato
+
+- Email: emanoeldasilvagomes16@gmail.com  
+- GitHub: [github.com/emanelgomes](https://github.com/emanelgomes)  
+- LinkedIn: [linkedin.com/in/emanoel-da-silva-gomes-280787306](https://www.linkedin.com/in/emanoel-da-silva-gomes-280787306)
+- 
