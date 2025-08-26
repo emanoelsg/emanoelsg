@@ -8,6 +8,7 @@ Desenvolvedor Flutter com foco em criar aplicativos móveis eficientes e de alta
 - **Firebase**: Integração com autenticação e banco de dados Firestore.
 - **Git & GitHub**: Controle de versão e colaboração em projetos.
 - **API REST**: Consumo e integração com APIs externas.
+- **GetX**: Gerenciamento de estudo , injeção de dependências e navegação.
 - **Boas práticas**: Código limpo, modularidade e desempenho.
 
 ## 📂 Melhores Projetos 
