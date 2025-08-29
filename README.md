@@ -20,6 +20,6 @@ Desenvolvedor Flutter com foco em criar aplicativos móveis eficientes e de alta
 ## 📬 Contato
 
 - Email: emanoeldasilvagomes16@gmail.com  
-- GitHub: [github.com/emanelgomes](https://github.com/emanelgomes)  
+- GitHub: [github.com/emanelgomes](https://github.com/emanelsg)  
 - LinkedIn: [linkedin.com/in/emanoel-da-silva-gomes-280787306](https://www.linkedin.com/in/emanoel-da-silva-gomes-280787306)
 - 
