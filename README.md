@@ -47,7 +47,7 @@ I’m looking to collaborate on projects and teams that value **good development
 ---
 
 ## 📬 Contato | Contact
-
+- 📞 Telefone/WhatsApp: **+55 33 9707-0732**
 - 📧 Email: **emanoeldasilvagomes16@gmail.com**  
 - 💻 GitHub: [github.com/emanoelsg](https://github.com/emanoelsg)  
 - 🔗 LinkedIn: [Emanuel Gomes](https://www.linkedin.com/in/emanoel-da-silva-gomes-280787306)
