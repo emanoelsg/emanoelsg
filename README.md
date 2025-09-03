@@ -1,4 +1,4 @@
-# 👋 Olá, sou Emanuel Gomes | Hi, I’m Emanuel Gomes
+# 👋 Emanuel Gomes 
 
 Desenvolvedor **Flutter** focado em criar aplicativos móveis eficientes e de alta qualidade.  
 Busco colaborar em projetos e equipes que valorizem **boas práticas de desenvolvimento** e entregas consistentes.  
