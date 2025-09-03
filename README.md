@@ -29,7 +29,7 @@ I’m looking to collaborate on projects and teams that value **good development
 
 ## 📂 Projetos em Destaque | Featured Projects
 
-- 📌 **[Lista de Tarefas](https://github.com/emanoelsg/listatarefa1)**  
+- 📌 **[Lista de Tarefas](https://github.com/emanoelsg/list_firebase)**  
   App de gerenciamento de tarefas com interface simples e integração ao Firebase.  
   Task management app with a clean interface and Firebase integration.  
 
