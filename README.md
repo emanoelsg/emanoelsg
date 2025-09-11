@@ -17,6 +17,7 @@ I’m looking to collaborate on projects and teams that value **good development
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?logo=api&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=flat)
+![CI](https://img.shields.io/badge/CI-CD-blue)
 
 - 🐦 **Flutter & Dart** – Android/iOS development 
 - 🔥 **Firebase** – Authentication & Firestore 
