@@ -25,7 +25,7 @@ I’m looking to collaborate on projects and teams that value **good development
 - 🧩 **Clean Architecture** – Organization and scalability
 - 🛠 **Git & GitHub** – Version control and collaboration   
 - 🔗 **REST APIs** – Integration and consumption | Consumo e integração  
-
+- 🚀 **CI/CD Pipelines** – Automação de build, testes e deploy contínuo 
 ---
 
 ## 📂 Projetos em Destaque | Featured Projects
