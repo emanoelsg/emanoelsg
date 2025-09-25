@@ -8,25 +8,30 @@ I’m looking to collaborate on projects and teams that value **good development
 
 ---
 
-## 🔧 Habilidades | Skills
+## 🔧 Habilidades | Skills  
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?logo=api&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=flat)
-![CI](https://img.shields.io/badge/CI-CD-blue)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST%20API-009688?logo=api&logoColor=white)  
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=flat)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-blue)  
+![Navigation 2.0](https://img.shields.io/badge/Navigation%202.0-42A5F5?logo=flutter&logoColor=white)  
 
-- 🐦 **Flutter & Dart** – Android/iOS development 
-- 🔥 **Firebase** – Authentication & Firestore 
-- ⚡ **GetX** – State management, dependencies, and navigation | Estado, dependências e navegação  
-- 🧩 **Clean Architecture** – Organization and scalability
-- 🛠 **Git & GitHub** – Version control and collaboration   
-- 🔗 **REST APIs** – Integration and consumption | Consumo e integração  
-- 🚀 **CI/CD Pipelines** – Automação de build, testes e deploy contínuo 
 ---
+
+- 🐦 **Flutter & Dart** – Android/iOS development  
+- 🔥 **Firebase** – Authentication & Firestore  
+- 💾 **SQLite** – Local/offline data persistence | Persistência local offline  
+- ⚡ **GetX** – State management, dependencies, and navigation | Estado, dependências e navegação  
+- 🧭 **Navigation 2.0 (go_router)** – Modern routing and deep linking | Navegação moderna e deep linking  
+- 🧩 **Clean Architecture** – Organization and scalability  
+- 🛠 **Git & GitHub** – Version control and collaboration  
+- 🔗 **REST APIs** – Integration and consumption | Consumo e integração  
+- 🚀 **CI/CD Pipelines** – Automated build, testing, and deployment | Automação de build, testes e deploy contínuo  
 
 ## 📂 Projetos em Destaque | Featured Projects
 
