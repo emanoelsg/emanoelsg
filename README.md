@@ -25,7 +25,6 @@ I’m looking to collaborate on projects and teams that value **good development
 - 🔥 **Firebase** – Authentication & Firestore  
 - 💾 **SQLite** – Local/offline data persistence | Persistência local offline  
 - ⚡ **GetX** – State management, dependencies, and navigation | Estado, dependências e navegação  
-- 🧭 **Navigation 2.0 (go_router)** – Modern routing and deep linking | Navegação moderna e deep linking  
 - 🧩 **Clean Architecture** – Organization and scalability  
 - 🛠 **Git & GitHub** – Version control and collaboration  
 - 🔗 **REST APIs** – Integration and consumption | Consumo e integração  
