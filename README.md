@@ -18,8 +18,6 @@ I’m looking to collaborate on projects and teams that value **good development
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 ![REST API](https://img.shields.io/badge/REST%20API-009688?logo=api&logoColor=white)  
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=flat)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-blue)  
-![Navigation 2.0](https://img.shields.io/badge/Navigation%202.0-42A5F5?logo=flutter&logoColor=white)  
 
 ---
 
