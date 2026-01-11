@@ -37,13 +37,12 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emanoelsg&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-six-rebel.vercel.app/api?username=emanoelsg&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=emanoelsg&layout=compact&theme=tokyonight" />
-</p>
-  
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=emanoelsg&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/emanoelsg?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/emanoelsg?label=Stars&style=social)
+
+<img height="180em" src="https://github-readme-stats-sandy-six-13.vercel. app/api?username=emanoelsg&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sandy-six-13.vercel. app/api/top-langs/? username=emanoelsg&layout=compact&theme=tokyonight" />
 
 ---
 
