@@ -1,10 +1,15 @@
+![Profile Views](https://komarev.com/ghpvc/?username=emanoelsg&color=blue)
+
 # Hi 👋, I'm Emanoel Gomes
-🚀 **Software Engineer | Node.js & Flutter Specialist**  
+🚀 **Software Developer (Pleno) | Flutter & Node.js**  
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance mobile apps**.  
-I'm deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I build **mobile and backend applications** using Flutter and Node.js,
+with a strong focus on **clean architecture, code organization, and practical performance**.
 
+I enjoy working on projects end-to-end — from idea and data modeling
+to implementation and delivery — always aiming to improve code quality
+and system design.
 
 ---
 
@@ -45,13 +50,11 @@ I'm deeply focused on **architecture, performance, clean code, and business-driv
 </p>
 
 ---
-
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
-
----
+> "Good software is built step by step.
+> My goal is to write code that is clear, maintainable,
+> and easy to improve over time."
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
