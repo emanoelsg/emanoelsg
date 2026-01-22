@@ -43,12 +43,10 @@ and system design.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sandy-six-13.vercel.app/api?username=emanoelsg&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats-sandy-six-13.vercel.app/api/top-langs/?username=emanoelsg&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 ## 🚀 Philosophy
 
