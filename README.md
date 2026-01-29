@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=emanoelsg&color=blue)
 
 # Hi 👋, I'm Emanoel Gomes
-🚀 **Software Developer (Pleno) | Flutter & Node.js**  
+🚀 **Software Developer  | Flutter & Node.js**  
 🇧🇷 Brazil
 
 I build **mobile and backend applications** using Flutter and Node.js,
@@ -42,11 +42,7 @@ and system design.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sandy-six-13.vercel.app/api?username=emanoelsg&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sandy-six-13.vercel.app/api/top-langs/?username=emanoelsg&layout=compact&theme=tokyonight" />
-</p>
+
 ---
 ## 🚀 Philosophy
 
