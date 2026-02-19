@@ -1,16 +1,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=emanoelsg&color=blue)
 
 # Hi 👋, I'm Emanoel Gomes
-🚀 **Software Developer  | Flutter & Node.js**  
-🇧🇷 Brazil
+🚀 **Software Developer  | Flutter & Node.js**   🇧🇷 Brazil
 
-I build **mobile and backend applications** using Flutter and Node.js,
-with a strong focus on **clean architecture, code organization, and practical performance**.
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=emanoelsg&limit=5&combine_all_yearly_contributions=true)
 
-I enjoy working on projects end-to-end — from idea and data modeling
-to implementation and delivery — always aiming to improve code quality
-and system design.
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=emanoelsg)](https://git.io/streak-stats)
 ---
 
 ## 🌐 Where to find me
