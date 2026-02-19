@@ -6,6 +6,9 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=emanoelsg&limit=5&combine_all_yearly_contributions=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=emanoelsg)](https://git.io/streak-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ## 🌐 Where to find me
