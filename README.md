@@ -3,10 +3,8 @@
 # Hi 👋, I'm Emanoel Gomes
 🚀 **Software Developer  | Flutter **   🇧🇷 Brazil
 <p align="center">
-  
-![Emanoel's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=emanoelsg&limit=5&combine_all_yearly_contributions=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=emanoelsg)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=emanoelsg&theme=tokyonight)](https://git.io/streak-stats)
 
 </p>
 <!--START_SECTION:waka-->
