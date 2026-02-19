@@ -8,6 +8,18 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=emanoelsg)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+
+```dart
+From: 08 July 2025 - To: 19 February 2026
+
+Total Time: 92 hrs 1 min
+
+Dart                76 hrs 30 mins        ████████████████████▓░░░░   82.59 %
+Groovy              3 hrs 9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Gradle Kotlin DSL   1 hr 13 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Java Properties     52 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+```
+
 <!--END_SECTION:waka-->
 ---
 
