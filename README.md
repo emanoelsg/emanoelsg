@@ -1,12 +1,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=emanoelsg&color=blue)
 
 # Hi 👋, I'm Emanoel Gomes
-🚀 **Software Developer  | Flutter & Node.js**   🇧🇷 Brazil
-
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=emanoelsg&limit=5&combine_all_yearly_contributions=true)
+🚀 **Software Developer  | Flutter **   🇧🇷 Brazil
+<p align="center">
+  
+![Emanoel's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=emanoelsg&limit=5&combine_all_yearly_contributions=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=emanoelsg)](https://git.io/streak-stats)
 
+</p>
 <!--START_SECTION:waka-->
 
 ```dart
@@ -45,7 +47,6 @@ Java Properties     52 mins               ▒░░░░░░░░░░░�
 ### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-### Backend
 
 
 ---
