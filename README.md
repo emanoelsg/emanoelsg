@@ -5,28 +5,12 @@
 🚀 Software Developer  | Flutter JR 🇧🇷
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanoelsg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoelsg&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=emanoelsg&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <!--START_SECTION:waka-->
-
-```dart
-From: 08 July 2025 - To: 19 February 2026
-
-Total Time: 92 hrs 1 min
-
-Dart                76 hrs 30 mins        ████████████████████▓░░░░   82.59 %
-Groovy              3 hrs 9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Gradle Kotlin DSL   1 hr 13 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Java Properties     52 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-XML                 42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Other               37 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-```
-
 <!--END_SECTION:waka-->
 ---
 
