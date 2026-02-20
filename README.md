@@ -1,11 +1,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=emanoelsg&color=blue)
 
 # Hi 👋, I'm Emanoel Gomes
-🚀 **Software Developer  | Flutter **   🇧🇷 Brazil
+🚀 Software Developer  | Flutter JR 🇧🇷
+
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanoelsg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoelsg&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=emanoelsg&theme=tokyonight)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=emanoelsg&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <!--START_SECTION:waka-->
 
@@ -50,11 +54,6 @@ Other               37 mins               ▒░░░░░░░░░░░�
 
 
 ---
-## 🚀 Philosophy
-
-> "Good software is built step by step.
-> My goal is to write code that is clear, maintainable,
-> and easy to improve over time."
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
