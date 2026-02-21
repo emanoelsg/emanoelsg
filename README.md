@@ -84,8 +84,8 @@ Dart                     8 repos             ███████████�
   <a href="https://github.com/emanoelsg">
     <img src="https://img.shields.io/badge/GitHub-emanoelsg-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/emanoeldsg/">
-    <img src="https://img.shields.io/badge/Instagram-@emanoeldsg-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/airget_/">
+    <img src="https://img.shields.io/badge/Instagram-@Emanoel_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/emanoel-da-silva-gomes-280787306">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
