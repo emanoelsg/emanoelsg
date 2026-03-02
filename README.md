@@ -12,7 +12,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2039%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -40,16 +40,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     19 mins             ██████████████░░░░░░░░░░░   55.75 % 
+TSConfig                 11 mins             ████████░░░░░░░░░░░░░░░░░   33.15 % 
+TypeScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+todo_ts                  34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -61,7 +63,7 @@ Dart                     8 repos             ███████████�
 
 
 
- Last Updated on 01/03/2026 03:15:30 UTC
+ Last Updated on 02/03/2026 02:46:18 UTC
 <!--END_SECTION:waka-->
 ---
 
