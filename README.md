@@ -12,8 +12,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2039%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 37.1 kB Used in GitHub's Storage 
@@ -61,7 +59,7 @@ Dart                     8 repos             ███████████�
 
 
 
- Last Updated on 21/05/2026 04:24:30 UTC
+ Last Updated on 22/05/2026 04:19:29 UTC
 <!--END_SECTION:waka-->
 ---
 
