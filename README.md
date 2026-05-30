@@ -12,9 +12,11 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2039%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 37.1 kB Used in GitHub's Storage 
+> 📦 37.0 kB Used in GitHub's Storage 
  > 
 > 🏆 62 Contributions in the Year 2026
  > 
@@ -24,6 +26,32 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+🌆 Daytime                186 commits         ███████████████░░░░░░░░░░   61.18 % 
+🌃 Evening                55 commits          █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -33,7 +61,7 @@ Dart                     8 repos             ███████████�
 
 
 
- Last Updated on 29/05/2026 04:21:03 UTC
+ Last Updated on 30/05/2026 04:06:42 UTC
 <!--END_SECTION:waka-->
 ---
 
