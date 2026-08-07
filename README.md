@@ -12,10 +12,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%203%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2057%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 37.1 kB Used in GitHub's Storage 
@@ -28,38 +24,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-🌆 Daytime                186 commits         ███████████████░░░░░░░░░░   61.18 % 
-🌃 Evening                55 commits          █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -69,7 +33,7 @@ Dart                     8 repos             ███████████�
 
 
 
- Last Updated on 06/08/2026 03:21:56 UTC
+ Last Updated on 07/08/2026 03:09:13 UTC
 <!--END_SECTION:waka-->
 ---
 
